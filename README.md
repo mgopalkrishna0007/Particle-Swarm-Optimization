@@ -12,6 +12,8 @@ Z = (1 - x)^2 + 100 \times (y - x^2)^2
 \]
 where \( x \) and \( y \) are the variables to be optimized.
 
+![image](https://github.com/user-attachments/assets/855bb925-6d99-4af1-b7f7-ec959b5c4c08)
+
 ## Implementation Details
 
 - **Objective Function**: Rosenbrock function without constraints.
