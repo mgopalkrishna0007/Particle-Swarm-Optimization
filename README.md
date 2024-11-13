@@ -23,6 +23,7 @@ where \( x \) and \( y \) are the variables to be optimized.
   - Acceleration coefficients: `c1 = 1.2`, `c2 = 1.2`
 
 ## Plotting
+![untitled](https://github.com/user-attachments/assets/2ab5031d-012e-4c4d-80ad-d607f1c5be84)
 
 After optimization, the code generates a 3D surface plot of the Rosenbrock function, with the optimal point found by PSO highlighted.
 
